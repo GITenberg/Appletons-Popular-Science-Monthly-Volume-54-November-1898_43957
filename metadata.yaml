@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42173'
     url: http://www.gutenberg.org/2009/agents/42173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43957#Appletons-Popular-Science-Monthly-Volume-54-November-1898
 gutenberg_issued: '2013-10-15'
 gutenberg_type: Text
 identifiers:
